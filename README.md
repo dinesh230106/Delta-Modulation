@@ -1,8 +1,8 @@
 # EX-04 Name: DINESH KUMAR A (212223060057)
-##  Delta-Modulation using phyton 
+##  Delta-Modulation using python 
  
 ## AIM
-To perform Delta-Modulation using phyton 
+To perform Delta-Modulation using python 
 ## Tools required
 Python: A versatile programming language used for scientific computing and signal processing.
 NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations.
