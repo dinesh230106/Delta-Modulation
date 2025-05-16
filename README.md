@@ -1,4 +1,4 @@
-# EX-04 Name: DINESH KUMAR A (212223060057)
+# EX-02.b Name: DINESH KUMAR A (212223060057)
 ##  Delta-Modulation using python 
  
 ## AIM
